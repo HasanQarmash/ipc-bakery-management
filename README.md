@@ -255,7 +255,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: HasanQarmash@gmail.com
+- 📧 **Email**: qarmash.hasan@gmail.com
 - 💬 **Discussions**: Use GitHub Discussions for questions
 - 🐛 **Issues**: Report bugs via GitHub Issues
 - 📖 **Wiki**: Check our Wiki for detailed documentation
@@ -268,6 +268,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using C, OpenGL, and POSIX IPC*
 
-![Bakery Simulation Demo](https://via.placeholder.com/600x300/4CAF50/FFFFFF?text=Real-Time+Bakery+Simulation)
 
 </div>
