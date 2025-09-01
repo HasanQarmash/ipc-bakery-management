@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.obj
+
+# Executables
+bin/
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Shared libraries
+*.so
+*.dylib
+*.dll
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Build directories
+build/
+dist/
+
+# Core dumps
+core.*
